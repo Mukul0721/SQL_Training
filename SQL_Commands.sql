@@ -1,11 +1,12 @@
 --TYPES OF COMMANDS IN SQL SERVER
 ================================================
---DDL(DATA DEFINATION LANGUAGE):Used for dealing with structure of objects.using these connamnd we can modify the objects.
---DDL COMMANDS ARE: CREATE
-                 -- ALTER
-				 --DROP
-				 --RENAME
-				 --TRUNCATE
+--DDL(DATA DEFINATION LANGUAGE):Used for dealing with structure of objects.using these command we can modify the objects.
+--DDL COMMANDS ARE: 
+                   -- CREATE
+                   -- ALTER
+		   -- DROP
+		   -- RENAME
+		   -- TRUNCATE
 --DML(DATA MANIUPLATION LANGUAGE) : USED FOR MANAGING DATA STORED IN AN OBJECT.
 --DDL COMMANDS ARE : --INSERT
                      --UPDATE
